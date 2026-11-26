@@ -1,0 +1,11 @@
+RETAIL INVOICE
+--------------------------------------------------------------
+Product             Qty     Price     Amount      Tax
+Rice                  2    650.00    1300.00    65.00
+Notebook              5     80.00     400.00    48.00
+Cooking Oil           3    180.00     540.00    27.00
+--------------------------------------------------------------
+Subtotal:       Rs. 2240.00
+Tax total:      Rs. 140.00
+Discount:       Rs. 224.00
+Amount payable: Rs. 2156.00
